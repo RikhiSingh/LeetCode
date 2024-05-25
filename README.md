@@ -16,10 +16,8 @@ Each problem solution is contained in its own directory, named after the problem
 ## Languages Used
 
 - Python
-- Java
-- C++
 - JavaScript
-- (add any other languages you use)
+- C#
 
 ## How to Use
 
@@ -37,7 +35,7 @@ These solutions are my personal implementations and may not be the most optimal.
 
 ## Contact
 
-If you have any questions, feel free to reach out via GitHub Issues or [your contact information].
+If you have any questions, feel free to reach out via GitHub Issues or rikhi_singh@outlook.com.
 
 ---
 
