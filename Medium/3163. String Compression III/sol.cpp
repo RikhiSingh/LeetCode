@@ -1,5 +1,8 @@
 // https://www.youtube.com/watch?v=13NBzSOHZOk
 
+// Time : simply tranmservers the string so O(n)
+// Space : O(1) we aint using any extra space
+
 class Solution {
 public:
     string compressedString(string word) {
