@@ -16,8 +16,12 @@ Each problem solution is contained in its own directory, named after the problem
 ## Languages Used
 
 - Python
+- TypeScript
+- Java
+- C++
 - JavaScript
 - C#
+- More
 
 ## How to Use
 
